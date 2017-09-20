@@ -1,0 +1,1 @@
+create table festival.festival(	id number(20),	name varchar2(50))
